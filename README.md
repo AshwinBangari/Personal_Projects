@@ -24,6 +24,14 @@ The drawings themselves were made by myself and the team, however I was the proj
 Final Inventor assembly of the FRC competition robot.
 The drawings themselves were made by myself and the team, however I was the team captain.
 
+## Programmable Robot
+
+Picture of the custom made robot. 
+The custom-made PCB consists of a copper board that was etched using acid.
+The 20-pin microcontroller and motor controllers lie on top of the PCB.
+The main body and wheels are made of CNC machined plexiglass after being drawn in AutoCAD.
+The joints and mounts for the motors were 3D printed after being designed in Inventor.
+
 ## Skills 2019 Nationals
 
 Collection of files, parts, assemblies, and renders submitted to the Skills 2019 National competition.
